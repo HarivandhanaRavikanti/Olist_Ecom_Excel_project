@@ -17,6 +17,16 @@ Product Characteristics
 Order Purchase Date
 Order Delivery Date ……
 
+Visualization Tools used: Power BI
+
+Power BI Report:
+
+![image](https://github.com/user-attachments/assets/01c88f49-1f35-45e0-a4a2-c6ca2bdc7a63)
+
+![image](https://github.com/user-attachments/assets/8bf7368e-6b0c-4628-b7e7-6efa8ad522d2)
+
+
+
 
 My Analysis:
 
